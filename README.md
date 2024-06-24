@@ -5,6 +5,7 @@
 The goal of this group project was to create a themed escape room that had three puzzles. By having access to a black box theater with motion capture sensors, one of the puzzles was required to be a motion trackable object. Given restrained physical space parameters of roughly 36 square feet, the main design challenge was creating and building a large room that allowed for free virtual movement and did not induce simulator sickness. This was overcome by my incorporation of VR teleportation using Unity's Virtual Reality ToolKit (VRTK) package.
 
 I was the sole designer of the entire office space theme in Unity, and I was the sole programmer for the motion trackable object puzzle.
+Link to video of the project: https://vimeo.com/966857693
 
 
 #### Please Note:
