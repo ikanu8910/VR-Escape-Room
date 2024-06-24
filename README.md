@@ -6,14 +6,14 @@ The goal of this group project was to create a themed escape room that had three
 
 I was the sole designer of the entire office space theme in Unity, and I was the sole programmer for the motion trackable object puzzle.
 
-Link to video of the project: https://vimeo.com/966857693
+#### Link to video of the project: https://vimeo.com/966857693
 
 
 #### Please Note:
-1.Sometimes our project will open with an untitled sample scene. As a result, you will need to click specifically into our scene titled Project 2 in the assets folder upon opening our project. 
-2.We recorded our project video then made some final edits afterwards that were not yet reflected in the video. So the timer and puzzle solved text location and color in the game is different that whats shown in our final video. 
-3.You most likely will need to run our project on a desktop, especially when connecting to an HMD.
-4.VRTK teleportation might not run after connecting to the Qualisys system.
+1. Sometimes our project will open with an untitled sample scene. As a result, you will need to click specifically into our scene titled Project 2 in the assets folder upon opening our project. 
+2. We recorded our project video then made some final edits afterwards that were not yet reflected in the video. So the timer and puzzle solved text location and color in the game is different that whats shown in our final video. 
+3. You most likely will need to run our project on a desktop, especially when connecting to an HMD.
+4. VRTK teleportation might not run after connecting to the Qualisys system.
 
 
 #### Designing the Escape Room
